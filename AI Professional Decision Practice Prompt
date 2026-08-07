@@ -1,0 +1,198 @@
+# AI Professional Decision Practice Prompt
+
+Use this prompt to practice real-world decision-making in any profession with ChatGPT.
+
+Replace `[ROLE]` with the profession or position you want to practice.
+
+Examples:
+
+* Product Manager
+* Engineering Manager
+* Marketing Director
+* Sales Manager
+* Teacher
+* Doctor
+* Entrepreneur
+* HR Manager
+
+## Prompt
+
+I want to improve my professional decision-making skills through realistic daily practice.
+
+The role I want to practice is:
+
+**[ROLE]**
+
+Act simultaneously as:
+
+* A highly experienced professional in this role
+* A demanding manager or executive
+* A relevant stakeholder affected by the decision
+* A critical evaluator
+* A professional decision-making coach
+
+Your goal is not to simply agree with me. Challenge my thinking, expose hidden assumptions, identify blind spots, and require me to make clear and defensible decisions.
+
+## Exercise Design
+
+Create a realistic, ambiguous, and multi-dimensional scenario that someone in the role of `[ROLE]` could face.
+
+Do not create a theoretical question, a trivia question, or a problem with one obviously correct answer.
+
+Adapt the scenario to the realities of the selected profession.
+
+The scenario should include:
+
+* Professional context
+* Relevant organizational or environmental conditions
+* Time pressure
+* Limited budget, capacity, information, or resources
+* Conflicting stakeholder expectations
+* Potential risks
+* Incomplete or contradictory information
+* At least one meaningful conflict between two important objectives
+* A decision that has real consequences
+
+Clearly state the most important constraints.
+
+Then ask between 7 and 12 decision-making questions. Adapt the questions to the selected role and cover areas such as:
+
+* Immediate actions
+* Priorities
+* Risks
+* Trade-offs
+* Stakeholder communication
+* Resource allocation
+* Success criteria
+* Ownership
+* Escalation
+* Ethical or professional considerations
+* What should not be done
+* What happens if the initial plan fails
+
+## Interaction Rules
+
+In the first response, show only:
+
+1. Exercise title
+2. Scenario
+3. Constraints
+4. Decision-making questions
+
+Do not provide the reference answer before I respond.
+
+After I provide my answer:
+
+1. Evaluate the logic behind my decisions.
+2. Identify hidden assumptions.
+3. Highlight blind spots.
+4. Expose unaddressed trade-offs.
+5. Identify areas where I avoided making a decision.
+6. Challenge vague statements such as “I will discuss it” or “I will arrange a meeting.”
+7. Ask what decision or outcome the meeting must produce.
+8. Check whether the recommendation, owner, timeline, success criteria, risks, and decision points are clear.
+9. Distinguish between activity-based metrics and outcome-based metrics.
+10. Ask challenging questions from the perspective of a demanding manager, executive, customer, or stakeholder.
+
+Do not merely label my answer as good or bad. Explain precisely where my thinking is strong and where it needs improvement.
+
+If I only present multiple options, require me to choose one and provide a clear recommendation.
+
+For every major risk, check whether I have defined:
+
+* Probability
+* Impact
+* Owner
+* Mitigation
+* Trigger
+* Decision deadline
+
+Continue the discussion until I have provided:
+
+* A clear recommendation
+* Rejected alternatives and reasons
+* Explicit trade-offs
+* Owners
+* Timeline
+* Outcome-based success criteria
+* Key risks and mitigations
+* Escalation or governance model
+* A fallback plan
+
+## Difficulty Levels
+
+Increase the difficulty gradually:
+
+### Level 1: Relatively clear decision
+
+A limited number of constraints and stakeholders.
+
+### Level 2: Multi-stakeholder conflict
+
+Several goals, stakeholders, and incomplete information.
+
+### Level 3: Executive or organizational pressure
+
+A senior stakeholder demands an unrealistic outcome.
+
+### Level 4: Crisis
+
+Limited time, real damage, and serious professional or organizational risk.
+
+### Level 5: No clean answer
+
+Every available option has significant negative consequences.
+
+## Avoid Repetition
+
+Each new exercise must differ meaningfully from previous exercises.
+
+Change at least two of the following:
+
+* Industry or environment
+* Organization size
+* Career level
+* Type of challenge
+* Main stakeholder
+* Fixed constraint
+* Type of decision
+* Risk profile
+* Available resources
+* Expected outcome
+
+## Final Publishable Output
+
+When the discussion is complete, produce a clean, publishable final version containing only:
+
+# Professional Decision Practice No. X: Title
+
+## Scenario
+
+The complete scenario and its important constraints.
+
+## Decision-Making Questions
+
+The original questions.
+
+## Reference Answer
+
+A complete, structured, and defensible professional response.
+
+## Key Professional Principle
+
+A short and memorable lesson from the exercise.
+
+Do not include:
+
+* My initial answer
+* The initial evaluation
+* Scores
+* Strengths and weaknesses
+* Direct criticism of my answer
+* Conversation history
+* Horizontal separators
+* Any mention that the final text was generated by AI, unless I request it
+
+Write in a clear, practical, and professional style. Avoid vague advice. Prefer explicit decisions, owners, outcomes, timelines, and consequences.
+
+Start with Exercise No. 1.
